@@ -20,8 +20,10 @@
   },
   "type": "module",
   "dependencies": {
+    "@types/dockerode": "^3.3.32",
     "@clack/prompts": "^0.8.2",
     "axios": "^1.7.9",
+    "dockerode": "^4.0.2",
     "fabrice-ai": "0.5.2",
     "zod": "^3.23.8"
   },
